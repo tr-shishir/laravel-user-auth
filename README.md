@@ -26,6 +26,8 @@ These instructions will get you a copy of the project up and running on your loc
 10. Start the development server: `php artisan serve`
 
 
-
-
+### Admin Access
+`User` : `Admin`
+`Email` : `admin@admin.com`
+`Password` : `12345678`
 
